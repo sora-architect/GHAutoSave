@@ -10,7 +10,7 @@ This design avoids component dependency issues when sharing Grasshopper files wi
 
 ## Features
 
-- AutoSave ON/OFF from **Display Å® AutoSave**
+- AutoSave ON/OFF from **Display to AutoSave**
 - Fixed autosave interval: **30 seconds**
 - No Grasshopper components required
 - No dependency stored inside `.gh` files
