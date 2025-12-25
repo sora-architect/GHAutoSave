@@ -1,5 +1,7 @@
 # GHAutoSave
-![Plugin ÉçÉS](./docs/AutoSave.png)
+<p align="center">
+  <img src="docs/AutoSave.png" width="128">
+</p>
 
 A Grasshopper plugin that automatically saves your `.gh` files at a fixed interval.  
 AutoSave is controlled from the **Display menu**, not by placing components on the canvas.
@@ -20,7 +22,7 @@ This design avoids component dependency issues when sharing Grasshopper files wi
 ---
 
 ## How It Works
-<img src="docs/display-menu.png" width="400">
+![Screenshot](GHAutoSave/docs/picture.png)
 
 - When **AutoSave is ON**:
   - Saved `.gh` files are automatically saved every 30 seconds

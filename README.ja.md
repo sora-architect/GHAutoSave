@@ -1,5 +1,5 @@
 # GHAutoSave
-![Plugin ロゴ](./docs/AutoSave.png)
+![Plugin ロゴ](GHAutoSave/docs/AutoSave.png)
 
 Grasshopper の定義ファイル（`.gh`）を一定間隔で自動保存するプラグインです。  
 AutoSave は **キャンバスにコンポーネントを置かず**、**Display メニュー**から ON / OFF を切り替えます。
@@ -20,7 +20,7 @@ AutoSave は **キャンバスにコンポーネントを置かず**、**Display メニュー**から ON 
 ---
 
 ## 動作概要
-<img src="docs/display-menu.png" width="400">
+![Screenshot](GHAutoSave/docs/picture.png)
 
 - **AutoSave が ON の場合**
   - 一度保存された `.gh` ファイルは 30 秒ごとに自動保存されます
